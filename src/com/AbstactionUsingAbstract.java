@@ -19,4 +19,3 @@ public class AbstactionUsingAbstract {
         obj.accelerate(); // call the method
     }
 }
-}
