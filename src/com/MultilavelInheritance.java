@@ -23,7 +23,7 @@ class D extends C {
 
 public class MultilavelInheritance extends D {
 	public static void main(String[] args) {
-		int a = 10, b = 20;
+		int a = 20, b = 30;
 		MultilavelInheritance a1 = new MultilavelInheritance();
 
 		a1.test1(a, b);
